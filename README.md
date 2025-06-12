@@ -1,6 +1,6 @@
 ﻿Employee Management System – Microservices with Docker
 
-This project is a full-stack **Employee Management System** built using the **MERN stack** (MongoDB, Express.js, React, Node.js). It includes an **Admin Dashboard** for managing employee records such as names, departments, roles, and access tokens.
+This project is a full-stack **Employee Management System** built using the **MERN stack** (MongoDB, Express.js, React, Node.js). It includes an **Admin Dashboard** for managing employee records such as names, departments, roles, and access tokens.It also includes a web app for employees which includes dashboard, attendance records, leave records etc, which helps manage their records such as leaves, time durations and etc.
 
 The app is fully containerized using **Docker**, demonstrating a microservices architecture with frontend, backend, and database services running in isolated containers on a shared Docker network.
 
