@@ -22,6 +22,10 @@ Each service is dockerized independently and connected through a custom Docker n
 
 ---
 
+
+![Architecture_Diagram](https://github.com/user-attachments/assets/667f19d4-eab0-4501-a1a8-a24e4c94db5c)
+
+
 ## Tech Stack
 
 - **Frontend**: React (Admin Dashboard UI)
